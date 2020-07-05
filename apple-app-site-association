@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "64G3XDKBN4.com.inscommunications.air",
+        "paths": ["/app/*"]
+      },
+      {
+        "appID": "64G3XDKBN4.com.inscommunications.meir",
+        "paths": ["/app/*"]
+      }
+    ]
+  }
+}
